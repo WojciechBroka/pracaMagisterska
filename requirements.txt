@@ -1,0 +1,7 @@
+wheel
+jupyter
+jupyterlab
+sympy
+numpy
+scipy
+matplotlib
